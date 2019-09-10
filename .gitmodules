@@ -1,3 +1,4 @@
 [submodule "resource2http"]
 	path = resources
+	branch = daffy
 	url = https://github.com/AndreaCensi/docs-resources2.git
